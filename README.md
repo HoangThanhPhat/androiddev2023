@@ -12,5 +12,5 @@ Student Info
 
 * Name: *Hoang Thanh Phat*
 * ID: *BA11-080*
-* Group ID: **
+* Group ID: G1
 
